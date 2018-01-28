@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_88695cb4839bd3979c2a37ce4628f5ebe736452a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_580f908c4ea62d6f8d57f3d1c4488ec4193fd436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e71cdb3744fdd48a78a8d75a86c7bf2e6463dcc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_be6e8c7358b631f3a69e0060a0fb7f23798955f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f0242f856b55324c99b7c816e38831006c0fc2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_adc10c5f28f401085aed9d9b8c130bbe0e00a6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6105a4a0addf32c9f1e3dcd29403bb4c4535d7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_6057a8b5812be8c10c914866e9823c86817289bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_f767849284850298b332c7d384cb15e7af03887d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_0ca68e3b18f23d1abaedab7ff951ac5de1e05771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_1456804f1b1476177a44819a89f892b93e074324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="783127c8b1d23b84cccc3dc776ca4637d4aba900">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.0.1_fbc385198d2654d7c6992f17d7d907106d6578e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.1_4136a8fffe9b29663f008dff92036bf6c1831b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_7cb98bc617b1721f22ac78a411cffeb95269d36c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_57e728b22670c1fc560cd1ff036db5cef125794e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_a715648863a1ecda1c4c14d87931a7fc558a350b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_ee23643b1e17c913353a3bf354cb6c4f65839faa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_bb9bdf06bfc31fe0f4c0a9c9b9b2b6370e259cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_1ef0da8572e604057e997183eaa46cc88344a134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.2.0_06c89d668cc98b85f2f18fe53823f35e85c8f35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_58c06362eee2249bc3db52e5cc169e73ecc10369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_3151c0230fb56c1e2051fbfd311ab213d1e7e34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\vikra\VersionControl\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_15bc1c2a831be69476651cfd6456e3417bef59d5.jar" />
+    </item>
+
+</items>
